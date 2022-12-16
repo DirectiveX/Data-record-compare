@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.directivex.datarecordcompare.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.directivex.datarecordcompare.MyBundle
 
 class MyApplicationService {
 
